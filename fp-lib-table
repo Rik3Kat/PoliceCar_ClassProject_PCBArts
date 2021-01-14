@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name "Custom reverse mount LED")(type "KiCad")(uri "${KIPRJMOD}/Custom reverse mount LED.pretty")(options "")(descr ""))
+  (lib (name "Custom reverse mount LED")(type "KiCad")(uri "${KIPRJMOD}/Custom_reverse_mount_LED.pretty")(options "")(descr ""))
+  (lib (name "9V")(type "KiCad")(uri "${KIPRJMOD}/9V.pretty")(options "")(descr ""))
 )
